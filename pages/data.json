@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "High-quality education",
+        "description": [
+            {
+                "point": "Our college offers a diverse range of academic programs taught by experienced and dedicated faculty members."
+            },
+            {
+                "point": "We are committed to providing high-quality education that prepares students for successful careers and lifelong learning."
+            },
+            {
+                "point": "We have cutting-edge technology and state-of-the-art facilities to support learning."
+            },
+            {
+                "point": "We offer career counseling, job placement assistance and networking opportunities for students."
+            },
+            {
+                "point": "Our college has a vibrant student life with a wide range of extracurricular activities and organizations for personal growth and community building."
+            }
+        ],
+        "imageURL": "https://via.placeholder.com/600X300"
+    },
+    {
+        "id": 2,
+        "title": "Access to state-of-the-art facilities",
+        "description": [
+            {
+                "point": "Our college has state-of-the-art facilities, including modern classrooms, labs, and libraries."
+            },
+            {
+                "point": "We have access to cutting-edge technology that is essential to succeed in today's rapidly changing world."
+            },
+            {
+                "point": "Our facilities are designed to support and enhance learning and research."
+            },
+            {
+                "point": "We have well-equipped labs, libraries and other facilities to support students."
+            },
+            {
+                "point": "Our facilities are regularly updated to keep up with the latest technology and trends."
+            }
+        ],
+        "imageURL": "https://via.placeholder.com/600X300"
+    },
+    {
+        "id": 3,
+        "title": "Strong career services",
+        "description": [
+            {
+                "point": "Our college provides strong career services, including career counseling, job placement assistance, and networking opportunities."
+            },
+            {
+                "point": "We help students transition to successful careers after graduation."
+            },
+            {
+                "point": "Our career services team provides guidance and support to students at every stage of the career planning process."
+            },
+            {
+                "point": "We have a wide range of resources and programs to help students explore career options and makeinformed decisions."
+            },
+            {
+                "point": "We also have strong industry connections and partnerships to help students find internships, job opportunities and more."
+            }
+        ],
+        "imageURL": "https://via.placeholder.com/600X300"
+    },
+    {
+        "id": 4,
+        "title": "Active student life",
+        "description": [
+            {
+                "point": "Our college has a vibrant student life with a wide range of extracurricular activities and organizations."
+            },
+            {
+                "point": "We offer opportunities for personal growth, leadership development, and community building."
+            },
+            {
+                "point": "We have a diverse range of clubs and organizations catering to different interests and hobbies."
+            },
+            {
+                "point": "We also have a range of sports teams and intramural programs for students to participate in."
+            },
+            {
+                "point": "Our student life programs and activities help students to connect with peers, develop new skills and make lasting memories."
+            }
+        ],
+        "imageURL": "https://via.placeholder.com/600X300"
+    },
+    {
+        "id": 5,
+        "title": "Affordable tuition",
+        "description": [
+            {
+                "point": "Our college offers affordable tuition rates and financial aid options."
+            },
+            {
+                "point": "We make a college education accessible to all students, regardless of their financial background."
+            },
+            {
+                "point": "We have financial aid advisors to help students understand and apply for financial aid."
+            },
+            {
+                "point": "We also offer scholarships and grants to help students to afford the cost of tuition."
+            },
+            {
+                "point": "We believe that financial barriers should not prevent students from pursuing higher education."
+            }
+        ],
+        "imageURL": "https://via.placeholder.com/600X300"
+    }
+]
